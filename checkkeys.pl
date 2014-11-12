@@ -84,7 +84,7 @@ sub print_missing
 	{
 		if (!defined ${$test}{$k})
 		{
-			print "  " . $k . "\n";
+			print $k . " = " . ${$reference}{$k} . "\n";
 		}
 	}
 }
@@ -111,9 +111,9 @@ sub read_keys
 
 		if ($line =~ /=/)
 		{
-			$line =~ /^([^\s]+)\s*=/;
+			$line =~ /^([^\s]+)\s*=\s*(\S.*)$/;
 			my $propname = $1;
-			$k{$propname} = 1;
+			$k{$propname} = $2;
 		}
 		elsif ($line ne "" && $line !~ /^#/)
 		{
