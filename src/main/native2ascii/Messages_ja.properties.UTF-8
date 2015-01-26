@@ -166,7 +166,7 @@ jsp.display-item.identifier = このアイテムの引用には次の識別子�
 jsp.display-item.license = クリエイティブ・コモンズ・ライセンス
 jsp.display-item.text1 = アイテムの簡略レコードを表示する
 jsp.display-item.text2 = アイテムの詳細レコードを表示する
-jsp.display-item.text3 = このアイテムは次のライセンスが設定されています: 
+jsp.display-item.text3 = このアイテムは次のライセンスが設定されています:
 jsp.display-item.back_to_workspace = ワークスペースに戻る
 jsp.display-item.suggest = このアイテムを推薦する
 
@@ -178,7 +178,7 @@ jsp.dspace-admin.general.delete = 削除
 jsp.dspace-admin.general.delete-w-confirm = 削除...
 jsp.dspace-admin.general.remove = 削除
 jsp.dspace-admin.general.edit = 編集
-jsp.dspace-admin.general.eperson = 利用者 
+jsp.dspace-admin.general.eperson = 利用者
 jsp.dspace-admin.general.editpolicy = ポリシー編集
 jsp.dspace-admin.general.group = グループ
 jsp.dspace-admin.general.group-colon = グループ:
@@ -570,7 +570,7 @@ jsp.layout.navbar-default.about = DSpaceについて
 jsp.layout.navbar-default.advanced = 詳細検索
 jsp.layout.navbar-default.authors = 著者
 jsp.layout.navbar-default.browse = ブラウズ
-jsp.layout.navbar-default.communities-collections = コミュニティ/コレクション 
+jsp.layout.navbar-default.communities-collections = コミュニティ/コレクション
 jsp.layout.navbar-default.date = 日付
 jsp.layout.navbar-default.edit = 利用者情報編集
 jsp.layout.navbar-default.go = 検索
@@ -594,7 +594,7 @@ jsp.login.chooser.chooseyour = ログインの方法を1つ選択してくださ
 jsp.login.chooser.title = ログイン方法の選択
 
 jsp.login.incorrect.heading = ログイン
-jsp.login.incorrect.text = 入力したメールアドレスとパスワードが間違っています。もう一度入力してください。パスワードを忘れた方は<a href="{0}">パスワード再発行画面</a>で手続きをしてください。 
+jsp.login.incorrect.text = 入力したメールアドレスとパスワードが間違っています。もう一度入力してください。パスワードを忘れた方は<a href="{0}">パスワード再発行画面</a>で手続きをしてください。
 jsp.login.incorrect.title = ログイン
 
 jsp.login.ldap.title = ログイン
@@ -642,7 +642,7 @@ jsp.mydspace.main.heading2 = 担当作業
 jsp.mydspace.main.heading3 = 編集作業待ちの投稿一覧
 jsp.mydspace.main.heading4 = 一時中断中の投稿一覧
 jsp.mydspace.main.heading5 = 受入処理中の投稿一覧
-jsp.mydspace.main.heading6 = 所属グループ:  
+jsp.mydspace.main.heading6 = 所属グループ:
 jsp.mydspace.main.item = アイテム
 jsp.mydspace.main.link = 購読情報を確認する
 jsp.mydspace.main.perform.button = この作業を実行する
@@ -1353,7 +1353,7 @@ org.dspace.checker.SimpleReporterImpl.date-range-to = -
 org.dspace.checker.SimpleReporterImpl.no-bitstreams-to-delete = 本日、削除されたビットストリームはありませんでした。
 org.dspace.checker.SimpleReporterImpl.checksum-did-not-match = "CHECKSUM DID NOT MATCH (チェックサムが不一致)" レポート
 org.dspace.checker.SimpleReporterImpl.no-changed-bitstreams = チェックサムが変更になったビットストリームはありませんでした。
-org.dspace.checker.SimpleReporterImpl.bitstream-not-found-report = "BITSTREAM NOT FOUND (該当のビットストリームはありません)" レポート: 
+org.dspace.checker.SimpleReporterImpl.bitstream-not-found-report = "BITSTREAM NOT FOUND (該当のビットストリームはありません)" レポート:
 org.dspace.checker.SimpleReporterImpl.no-bitstreams-changed = チェックサムが変更になったビットストリームはありませんでした。
 org.dspace.checker.SimpleReporterImpl.bitstream-will-no-longer-be-processed = "BITSTREAM WILL NO LONGER BE PROCESSED (ビットストリームは今後処理されません)レポート
 org.dspace.checker.SimpleReporterImpl.no-bitstreams-to-no-longer-be-processed = 今後処理されないフラグがセットされたビットストリームはありませんでした。
@@ -1428,7 +1428,7 @@ org.dspace.app.webui.servlet.FeedServlet.notitle = タイトルなし
 org.dspace.app.webui.servlet.FeedServlet.search.description = チャンネルの検索
 org.dspace.app.webui.servlet.FeedServlet.search.name = 検索
 org.dspace.app.webui.servlet.FeedServlet.search.title = {0}サーチエンジン
-org.dspace.app.webui.servlet.FeedServlet.search.title.default = DSpaceサーチエンジン 
+org.dspace.app.webui.servlet.FeedServlet.search.title.default = DSpaceサーチエンジン
 browse.page-title = ブラウズ
 browse.et-al = 等
 
@@ -1515,8 +1515,8 @@ org.dspace.app.webui.servlet.SuggestServlet.recipient = 受取人
 org.dspace.app.webui.servlet.SuggestServlet.sender = DSpaceユーザ
 
 org.dspace.eperson.X509Authentication.title = Web認証を使用するDSpaceを入力
-org.dspace.eperson.Subscribe.authors = 著者: 
-org.dspace.eperson.Subscribe.id = ID: 
+org.dspace.eperson.Subscribe.authors = 著者:
+org.dspace.eperson.Subscribe.id = ID:
 org.dspace.eperson.Subscribe.new-items = 新アイテム:
 org.dspace.eperson.Subscribe.title = タイトル:
 
@@ -1621,7 +1621,7 @@ jsp.tools.lookup.fail = 選択データのロードに失敗しました:
 jsp.tools.lookup.field.dc_contributor_author.help = "姓, 名" 形式の名前
 jsp.tools.lookup.field.dc_contributor_author.help.first = 名、 たとえば "太郎"
 jsp.tools.lookup.field.dc_contributor_author.help.last = 姓、たとえば "山田"
-jsp.tools.lookup.field.dc_contributor_author.nonauthority = DSpace入力値 '@1@' 
+jsp.tools.lookup.field.dc_contributor_author.nonauthority = DSpace入力値 '@1@'
 jsp.tools.lookup.field.dc_contributor_author.title = 名前典拠検索
 jsp.tools.lookup.field.dc_publisher.help = 出版者名
 jsp.tools.lookup.field.dc_publisher.nonauthority = 非典拠値: @1@
@@ -1641,8 +1641,8 @@ itemRequest.response.body.approve = {0} 殿\n\n前略\n\n\
 貴殿から送付依頼のあった論文 "{2}" ({1})の複製を添付しますのでご確認ください。\n\n早々\n{3} <{4}>
 itemRequest.response.body.reject = {0} 殿\n\n\
 前略\n\n貴殿から送付依頼のあった論文 "{2}" ({1})の件ですが、\n残念ながら許諾を得ることができませんでしたので送付できません。\n\
-あしからずご了承ください。\n\n\早々\n{3} <{4}>
-itemRequest.response.body.contactAuthor = {0} 殿\n\n\拝啓\n\n\
+あしからずご了承ください。\n\n早々\n{3} <{4}>
+itemRequest.response.body.contactAuthor = {0} 殿\n\n拝啓\n\n\
 DSpaceには貴殿の著作 "{1}" のデジタル版を保管されております。そのURLは {2} です。\n\n\
 この著作本文は一般公開されていませんが、このたび利用者から利用の依頼がありました。\n\
 そこでこの著作の著作権は持つ貴殿からの利用の許諾をいただきたいと思い、メールを差し上げました。\n\
@@ -1653,7 +1653,7 @@ DSpaceには貴殿の著作 "{1}" のデジタル版を保管されておりま�
 敬具\n{3} <{4}>
 itemRequest.response.body.contactRequester = {0} 殿\n\n\
 前略\n\n貴殿からの論文抜刷の送付依頼を受け付けました。著作の送付が可能か否かについて著作権を有する著者に問い合わせいたします。\n\n\
-著者からの返事があり次第、結果をご連絡いたしますので、しばらくお待ちください。\n\n\早々\n{1} <{2}>
+著者からの返事があり次第、結果をご連絡いたしますので、しばらくお待ちください。\n\n早々\n{1} <{2}>
 itemRequest.response.subject.contactAuthor = 論文抜刷の送付依頼
 itemRequest.response.subject.contactRequester = 論文抜刷の送付依頼
 itemRequest.response.subject.approve = 論文抜刷の送付依頼
@@ -1696,7 +1696,7 @@ jsp.error.exceeded-size.title = 最大サイズ超過エラー
 jsp.general.browse = ブラウズ
 jsp.general.version.button = バージョン作成
 jsp.general.version.history.button = バージョン履歴の表示
-jsp.layout.footer-default.theme-by = Theme by 
+jsp.layout.footer-default.theme-by = Theme by
 jsp.layout.navbar-admin.accesscontrol = アクセスコントロール
 jsp.layout.navbar-admin.batchmetadataimport = メタデータ一括インポート
 jsp.layout.navbar-admin.contents = コンテンツ
@@ -1704,15 +1704,15 @@ jsp.layout.navbar-admin.curate = 管理作業
 jsp.layout.navbar-admin.privateitems = プライベートアイテム
 jsp.layout.navbar-admin.settings = 一般設定
 jsp.mydspace.subscriptions.select_collection = ( コレクションを選択 )
-jsp.request.item.request-form.allfiles = ファイル: 
+jsp.request.item.request-form.allfiles = ファイル:
 jsp.request.item.request-form.cancel = キャンセル
-jsp.request.item.request-form.coment = メッセージ: 
-jsp.request.item.request-form.email = 依頼者メールアドレス: 
+jsp.request.item.request-form.coment = メッセージ:
+jsp.request.item.request-form.email = 依頼者メールアドレス:
 jsp.request.item.request-form.go = 送信
-jsp.request.item.request-form.info2 = 対象アイテム: {0} 
+jsp.request.item.request-form.info2 = 対象アイテム: {0}
 jsp.request.item.request-form.no = 依頼部数
 jsp.request.item.request-form.problem = 必要なフィールドすべてに入力してください。
-jsp.request.item.request-form.reqname = 依頼者氏名: 
+jsp.request.item.request-form.reqname = 依頼者氏名:
 jsp.request.item.request-form.title = 別刷り送付依頼
 jsp.request.item.request-form.yes = アクセス制限のある（このアイテムの）すべてのファイル
 jsp.request.item.request-free-acess.close = 閉じる
@@ -1723,14 +1723,14 @@ jsp.request.item.request-free-acess.info2 = アクセスを制限する理由が
 jsp.request.item.request-free-acess.name = 名前:
 jsp.request.item.request-free-acess.title = 回答を送信しました。
 jsp.request.item.request-information.info1 = 件名: 別刷り送付依頼
-jsp.request.item.request-information.info2 = あなたが資料 {0} の著者（あるいは著者の一人）でしたら、{1} からの別刷り送付依頼に回答をお願いします。
+jsp.request.item.request-information.info2 = 登録された資料 {0} に利用者 {1} から別刷りの送付依頼がありました。お手数ですが回答をお願いします。
 jsp.request.item.request-information.no = 送付しない
-jsp.request.item.request-information.note = 回答にしたがって自動的に返信メールが作成されます。これは変更することができます。
+jsp.request.item.request-information.note = 利用者へ送付されるメールが自動作成されますが、文面は次の画面で変更することができます。
 jsp.request.item.request-information.title = 別刷り送付依頼
 jsp.request.item.request-information.yes = 送付する
 jsp.request.item.request-letter.accept.heading = 依頼を受ける
 jsp.request.item.request-letter.accept.info = 以下は資料を添付して送信されるメールです。
-jsp.request.item.request-letter.back = 戻る 
+jsp.request.item.request-letter.back = 戻る
 jsp.request.item.request-letter.message = メッセージ:
 jsp.request.item.request-letter.next = 送信
 jsp.request.item.request-letter.reject.heading = 依頼を断る
@@ -1776,7 +1776,7 @@ jsp.sherpa.copyright = <p><b>著作権:</b></p>
 jsp.sherpa.error = <p class="sherpaError">SHERPA/RoMEO Databaseとの接続に問題が発生し、データを入手できませんでした。後でもう一度実行していただくか、直接<a href="http://www.sherpa.ac.uk/romeo.php" target="_blank">SHERPA/RoMEO WebSite</a>にアクセスして下さい。</p>
 jsp.sherpa.generalconditions = <p><b>一般条件:</b></p>
 jsp.sherpa.heading = <p class="sherpaDisclaimer"><a href="http://www.sherpa.ac.uk/romeo.php" target="_blank"><img align="left" src="{0}/sherpa/image/romeosmall.gif" width="100" height="54" alt="SHERPA/RoMEO Database" border="0"></a> SHERPA/RoMEOの情報については私たちの知る限り正しいものですが、法的助言として信頼するべきではありません。SHERPAはRoMEOデータの再利用やこの情報から得られる別の解釈には関しては責任を持てません。</p>
-jsp.sherpa.jornalissn = (ISSN\: {0})</p> 
+jsp.sherpa.jornalissn = (ISSN\: {0})</p>
 jsp.sherpa.jornaltitle = <p><b>雑誌:</b> {0}
 jsp.sherpa.legend = <div class="sherpaLegend"><table class="romeoColour table"><thead><tr><th>ROMEO背景色</th><th>Archiving policy</th></tr></thead><tbody><tr><td class="greenRomeoPublisher">緑</td><td>プレプリント<i>および</i>ポストプリントまたは出版者版/PDFをアーカイブ可能</td></tr><tr><td class="blueRomeoPublisher">青</td><td>ポストプリント（査読後の最終稿）または出版者版/PDFをアーカイブ可能</td></tr><tr><td class="yellowRomeoPublisher">黄</td><td>プレプリント（査読前の原稿）をアーカイブ可能</td></tr><tr><td class="grayRomeoPublisher">灰gray</td><td>DOAJが把握している出版者だがRoMEOはまだ未調査</td></tr><tr><td class="whiteRomeoPublisher">白</td><td>アーカイブが公式には認められていない</td></tr></tbody></table></div>
 jsp.sherpa.loading = <p>SHERPA/RoMEOデータベースからポリシー情報を取り込み中</p><img alt="loading" src="{0}/sherpa/image/ajax-loader-big.gif" />
@@ -1814,14 +1814,14 @@ jsp.submit.access.error_3 = 不正なグループを選択
 jsp.submit.access.error_4 = ポリシーが重複
 jsp.submit.access.error_5 = ポリシーが重複
 jsp.submit.access.plist.heading = ポリシー一覧
-jsp.submit.access.policy_setting.label_date = 指定日までエンバーゴ\: 
+jsp.submit.access.policy_setting.label_date = 指定日までエンバーゴ\:
 jsp.submit.access.policy_setting.label_date.help = 日付フォーマット: yyyy, yyyy-mm, yyyy-mm-dd
-jsp.submit.access.policy_setting.label_group = グループ\: 
-jsp.submit.access.policy_setting.label_name = 名前\: 
-jsp.submit.access.policy_setting.label_reason = 理由\: 
+jsp.submit.access.policy_setting.label_group = グループ\:
+jsp.submit.access.policy_setting.label_name = 名前\:
+jsp.submit.access.policy_setting.label_reason = 理由\:
 jsp.submit.access.private_setting.heading = プライベートアイテム
 jsp.submit.access.private_setting.help = これを選択するとアイテムが検索されなくなります。
-jsp.submit.access.private_setting.label = プライベート\: 
+jsp.submit.access.private_setting.label = プライベート\:
 jsp.submit.access.submit_add_policy.button = 確認して、別のポリシーを追加
 jsp.submit.access.title = アクセス
 jsp.submit.choose-file.upload-ajax.button.cancel = キャンセル
@@ -1962,11 +1962,11 @@ jsp.version.version-summary.submit_version = バージョン
 org.dspace.app.itemexport.no-result = 指定したDSpaceObjectにはアイテムが含まれていません。
 org.dspace.app.webui.jsptag.ItemTag.restrict = <span class="glyphicon glyphicon-lock"> </span>&nbsp; 別刷り依頼
 org.dspace.app.webui.jsptag.access-setting.button_confirm = ポリシーを確認して別のポリシーを設定
-org.dspace.app.webui.jsptag.access-setting.label_date = エンバーゴ日付\: 
-org.dspace.app.webui.jsptag.access-setting.label_embargo = 公開/エンバーゴ\: 
-org.dspace.app.webui.jsptag.access-setting.label_group = グループ\: 
-org.dspace.app.webui.jsptag.access-setting.label_name = 名前\: 
-org.dspace.app.webui.jsptag.access-setting.label_reason = 理由\: 
+org.dspace.app.webui.jsptag.access-setting.label_date = エンバーゴ日付\:
+org.dspace.app.webui.jsptag.access-setting.label_embargo = 公開/エンバーゴ\:
+org.dspace.app.webui.jsptag.access-setting.label_group = グループ\:
+org.dspace.app.webui.jsptag.access-setting.label_name = 名前\:
+org.dspace.app.webui.jsptag.access-setting.label_reason = 理由\:
 org.dspace.app.webui.jsptag.access-setting.legend = エンバーゴ
 org.dspace.app.webui.jsptag.access-setting.radio0 = 直ちに公開
 org.dspace.app.webui.jsptag.access-setting.radio1 = 指定日までアクセスを制限
@@ -2023,6 +2023,15 @@ jsp.layout.navbar-admin.batchimport.owningcollection = その他のコレクシ�
 jsp.layout.navbar-admin.batchimport.owningcollectionempty = 所属コレクションも選択してください
 jsp.layout.navbar-default.browseitemsby = ブラウズ:
 jsp.mydspace.main.heading8 = 一括インポート
-jsp.submit.choose-file.upload-resumable.button.select-file = ファイルを選択するか、ここにドラック＆ドロップしてください 
+jsp.submit.choose-file.upload-resumable.button.select-file = ファイルを選択するか、ここにドラック＆ドロップしてください
 jsp.submit.choose-file.upload-resumable.unsupported = ご使用のブラウザはこのファイルアップロード機能が使用できません。この機能を使用するには<a href="http://www.w3.org/TR/FileAPI/">HTML5 File API</a>と<a href="http://www.w3.org/TR/FileAPI/#normalization-of-params">ファイルスライス</a>機能をサポートしたブラウズを使用してください。
 org.dspace.app.requestitem.RequestItemHelpdeskStrategy.helpdeskname = 連絡先
+
+jsp.dspace-admin.batchimport.info.success = インポート処理を受け付けました。終了次第メールでお知らせします。なお、<a href="{0}">マイ・リポジトリ</a> 画面で進捗状況を確認できます。
+jsp.dspace-admin.batchimport.saf.remote = シンプル・アーカイブフォーマット（リモートURLにあるzipファイル）
+jsp.dspace-admin.batchimport.saf.upload = シンプル・アーカイブフォーマット（ローカルにあるzipファイル）
+jsp.dspace-admin.batchimport.hide = 詳細非表示
+jsp.dspace-admin.batchimport.show = 詳細表示
+jsp.dspace-admin.batchimport.hideitems = アイテムを非表示
+jsp.dspace-admin.batchimport.showitems = アイテムを表示
+jsp.dspace-admin.batchimport.errormsg = エラーメッセージ
